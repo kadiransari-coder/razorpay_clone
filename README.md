@@ -1,2 +1,2 @@
-This is my new project and I am aiming to learn tailwind css while build razorpay clone
+This is my new project and I am trying to learn tailwind css while building razorpay clone
 Thank_you!
